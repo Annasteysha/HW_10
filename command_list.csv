@@ -1,0 +1,456 @@
+    1  exit
+    2  exit
+    3  exit
+    4  pwd
+    5  pwd
+    6  ls
+    7  ls  -l
+    8  ls -la
+    9  ls  -la
+   10  ls  -la
+   11  ls  -a
+   12  ls  -la
+   13  cd Desktop
+   14  pwd
+   15  ls
+   16  cd
+   17  ls
+   18  cd
+   19  pwd
+   20  ls
+   21  cd
+   22  cd desktop
+   23  ls
+   24  pwd
+   25  cd ..
+   26  cd desktop
+   27  pwd
+   28  ls
+   29  cd ..
+   30  cd ikonki
+   31  pwd
+   32  cd ikonki
+   33  cd 111
+   34  cd desktop
+   35  cd 111
+   36  ls
+   37  cd ~
+   38  cd desktop
+   39  cd 111
+   40  ls
+   41  pwd
+   42  pwd
+   43  pwd
+   44  ls
+   45  ls  -l
+   46  ls  -a
+   47  cd ОПТ
+   48  cd 1234
+   49  cd desktop
+   50  cd  ~
+   51  cd desktop
+   52  cd  ~
+   53  cd ОПТ
+   54  cd я
+   55   cd 111
+   56  cd 111
+   57  cd desktop
+   58  cd 111
+   59  cd  ~
+   60  cd desktop
+   61  cd 1223
+   62  cd  ~
+   63  cd я
+   64  cd desktop
+   65  cd 1223
+   66  cd ~
+   67  cd 1223
+   68  cd  ~
+   69  cd desktop
+   70  cd 1223
+   71  cd ..
+   72  cd anastasiia
+   73  mkdir Projects
+   74  ls
+   75  cd projects
+   76  pwd
+   77  cd  ..
+   78  cd  ..
+   79  cd projects
+   80  cd anastasiia
+   81  pwd
+   82  ls
+   83  ls  -l
+   84  cd projects
+   85  ls
+   86  pwd
+   87  mkdir my-project
+   88  ls -l
+   89  cd my-project
+   90  pwd
+   91  ls -l
+   92  cd anastasiia
+   93  cd desktop
+   94  cd  ~
+   95  cd anastasiia
+   96  cd desktop
+   97  cd anastasiia
+   98  mkdir Terminal
+   99  cd terminal
+  100  mkdir Projects
+  101  cd projects
+  102  mkdir my project
+  103  mkdir my-project
+  104  pwd
+  105  cd desktop
+  106  pwd
+  107  ls
+  108  pwd ikonki
+  109  cd ikonki
+  110  ls -l
+  111  pwd
+  112  cd projects
+  113  cd `
+  114  cd ~
+  115  cd //
+  116  cd ..
+  117  exit
+  118  exit
+  119  cd desktop
+  120  cd anastazja
+  121  ls
+  122  cd konspekt
+  123  cd konspect
+  124  ls
+  125  cd ..
+  126  cd projects
+  127  cd terminal
+  128  cd anastasiia
+  129  ls
+  130  cd terminal
+  131  ls
+  132  cd projects
+  133  cd my-project
+  134  ls
+  135  ls -l
+  136  touch example.txt
+  137  ls
+  138  ls -l
+  139  touch file1.txt file2.txt file3.txt
+  140  ls
+  141  ls -l
+  142  mkdir first
+  143  ls -l
+  144  mmkdir second
+  145  pwd
+  146  mkdir second
+  147  mkdir third
+  148  ls -l
+  149  touch first/todo.txt
+  150  pwd
+  151  cd first
+  152  pwd
+  153  ls -l
+  154  rmdir third
+  155  cd ..
+  156  rmdir third
+  157  ls -l
+  158  mkdir third
+  159  ls -l
+  160  Remove-Item third
+  161  rmdir third
+  162  ls -l
+  163  cd first
+  164  touch todo.txt
+  165  ls -l
+  166  cd ..
+  167  ls -l
+  168  rmdir first
+  169  ls -l
+  170  cd first
+  171  ls -l
+  172  cd ..
+  173  rm -rf first
+  174  ls -l
+  175  mkdir a b c
+  176  ls l
+  177  ls -l
+  178  rm -rf a b c
+  179  ls -l
+  180  rm example.txt 
+  181  ls -l
+  182  mkdir exemple.txt
+  183  ls -l
+  184  rm example.txt
+  185  ls -l
+  186  rm exemple.txt
+  187  ls -l
+  188  rm exemple.txt
+  189  rm -rf exemple.txt
+  190  ls -l
+  191  touch example.txt
+  192  ls -l
+  193  rm example.txt
+  194  ls -l
+  195  rm file1.txt file2.txt file3.txt
+  196  ls -l
+  197  touch file1.txt
+  198  touch file2.txt file3.txt
+  199  ls -l
+  200  touch example.txt
+  201  ls -l
+  202  rm -i example.txt
+  203  ls -l
+  204  rm file1.txt
+  205  ls -l
+  206  touch example.txt file1.txt
+  207  ls -l
+  208  exit
+  209  exit
+  210  cd desktop
+  211  cd anastasiia
+  212  ls -l
+  213  cd terminal
+  214  ls -l
+  215  cd projects
+  216  ls -l
+  217  cd my-project
+  218  ls -l
+  219  mv file1.txt todo.txt
+  220  ls -l
+  221  mkdir stash
+  222  ls -l
+  223  mv todo.txt stash
+  224  cd stash
+  225  ls -l
+  226  pwd
+  227  cd ..
+  228  pwd
+  229  cd stash
+  230  ls -l
+  231  mv todo.txt ..
+  232  ls -l
+  233  cd ..
+  234  ls -l
+  235  cd stash
+  236  ls -l
+  237  cd ..
+  238  mv todo.txt stash
+  239  ls -l
+  240  cd stash
+  241  ls -l
+  242  cd ..
+  243  pwd
+  244  ls -l
+  245  cp file2.txt stash
+  246  ls -l
+  247  cd stash
+  248  ls -l
+  249  clear
+  250  ls -l
+  251  pwd
+  252  ls 
+  253  man mv
+  254  man mv
+  255  man cd
+  256  cd ..
+  257  man mv
+  258  ехіе
+  259  man mv
+  260  exit
+  261  DBeaver
+  262  dbeaver --version
+  263  dbeaver.exe --version
+  264  c
+  265  cd C
+  266  cd C - Is
+  267  cd Desctop - Is
+  268  man ls
+  269  help ls
+  270  info ls
+  271  man -k ls
+  272  help help
+  273  help help ls
+  274  help help [-ls]
+  275  ls
+  276  cls
+  277  clear
+  278  ls
+  279  cd desctop
+  280  cd desktop
+  281  cd konspect
+  282  cd ..
+  283  cd desktop
+  284  cd ~
+  285  cd desktop
+  286  cd ..
+  287  cd anastasiia
+  288  cd downh
+  289  cd down
+  290  mkdir Lesson
+  291  mkdir Lesson2
+  292  ls
+  293  cd desctop
+  294  cd Desktop
+  295  mkdir Lesson
+  296  mkdir Lesson2
+  297  touch empty.txt
+  298  ls
+  299  clear
+  300  vim empty.txt
+  301  nano empty.txt
+  302  empty.txt
+  303  nano emty/txt
+  304  nano empty.txt
+  305  cat empty.txt
+  306  cp empty.txt
+  307  pwd
+  308  cp /c/Users/Anastasia Steele/ Desktop/empty/txt /c/Users/Anastasia Steele/Desktop/Lesson
+  309  cp /c/Users/Anastasia Steele/Desktop/empty/txt /c/Users/Anastasia Steele/Lesson
+  310  cp /c/Users/Anastasia Steele/Desktop/empty/txt /c/Users/Anastasia Steele
+  311  cp /c/Users/Anastasia Steele/Desktop/empty.txt /c/Users
+  312  rm empty.txt
+  313  ping google.com
+  314  date
+  315  system_profiler
+  316  dc ..
+  317  system_profiler
+  318  df -h
+  319  whoami
+  320  cd Desktop
+  321  ls
+  322  touch test.txt
+  323  chmod 777 test.txt
+  324  git help
+  325  clear
+  326  cd git
+  327  clear
+  328  cd Git
+  329  clear
+  330  cd //
+  331  cd ..
+  332  cd Git
+  333  cd Git
+  334  cd git
+  335  cd git
+  336  cd desktop
+  337  cd git
+  338  clear
+  339  cd desktop/git
+  340  git config --global user.name "Anastasia Furs"
+  341  git config --global user.email "stasafurs@gmail.com"
+  342  git clone https://github.com/Annasteysha/HW_10.git
+  343  git status
+  344  cd hw_10
+  345  git status
+  346  touch text_ignore.txt
+  347  git status
+  348  git add text_ignore.txt
+  349  git status
+  350  nano .gitignore
+  351  git status
+  352  cd ..
+  353  cd HW_10
+  354  git status
+  355  git commit -m "Editing the file .gitignore"
+  356  git status
+  357  git commit -m "modified .gitignore"
+  358  git status
+  359  git commit -a .gitignore
+  360  git status
+  361  git  commit -m "modofied file"
+  362  git status
+  363  git log
+  364  git add .gitignore
+  365  git status
+  366  touch main_test.txt
+  367  git add
+  368  git status
+  369  git add main_test.txt
+  370  git status
+  371  git branch
+  372  git checkout -b develop
+  373  git branch
+  374  git checkout main
+  375  git branch
+  376  git checkout dovelop
+  377  git branch
+  378  git checkout develop
+  379  git branch
+  380  touch develop_test.txt
+  381  git status
+  382  git add develop_test.txt
+  383  git status
+  384  git commit -m "new file develop_test.txt"
+  385  git status
+  386  git status
+  387  git branch
+  388  git status
+  389  git add develop_test.txt
+  390  git status
+  391  git checkout main
+  392  git branch
+  393  git status
+  394  cd //
+  395  cd ..
+  396  pwd
+  397  cd desktop/git/hw_10
+  398  cd desktop
+  399  cd ..
+  400  cd desktop/git
+  401  cd desktop/git
+  402  git status
+  403  cd hw_10
+  404  git status
+  405  nano .gitignore
+  406  git status
+  407  git add .gitignore
+  408  git status
+  409  git restore --staged .gitignore
+  410  git status
+  411  git add .gitignore
+  412  git satus
+  413  git status
+  414  git commit -m "modified file"
+  415  git status
+  416  cd desktop/git
+  417  cd hw-10
+  418  cd hw_10
+  419  touch main_test.txt
+  420  git add main_test.txt
+  421  git commit -m "new file created"
+  422  git status
+  423  git log
+  424  cd desktop/git/hw_10
+  425  git log
+  426  cd desktop/git/hw_10
+  427  git status
+  428  git log
+  429  cd desktop/git/hw_10
+  430  git branch
+  431  git checkout develop
+  432  git branch
+  433  nano develop_test.txt
+  434  git status
+  435  git add develop_test.txt
+  436  git status
+  437  git commit -m "new modified"
+  438  git status
+  439  git checkout main
+  440  git merge develop
+  441  git log
+  442  history>command_list.csv
+  443  git status
+  444  git add command-list.csv
+  445  git status
+  446  git add history>command_list.csv
+  447  git status
+  448  git add command_list.csv
+  449  git status
+  450  git commit "new file created"
+  451  git commit -m "new file created"
+  452  git push
+  453  cd desktop/git/hw_10
+  454  git branch
+  455  git push
+  456  history>command_list.csv
